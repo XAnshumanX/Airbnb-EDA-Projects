@@ -1,6 +1,26 @@
 # Airbnb-EDA-Projects
 ![download](https://github.com/user-attachments/assets/9cf69101-95ff-4c85-9496-4a5db5b15b75)
 
+
+#Project Steps :
+
+EDA project will encompass data cleaning, preprocessing, and exploratory data analysis techniques. We will employ descriptive statistics, data visualization to extract meaningful patterns and trends from the Airbnb dataset.
+
+Data Exploration : The data exploration process involved identifying and understanding the characteristics of the data, such as the data types, missing values, and distributions of values.
+
+Data Cleaning : The data cleaning process involved identifying and addressing any issues or inconsistencies in the data, such as errors, missing values, or duplicate records and remove outliers.
+
+Data Wrangling : This step involves transforming bad data into a useful dataset via structuring, enrichment and data manipulation making it ready for further analysis processes.
+
+Data Visualisation : Data visualization is the graphical representation of information and data.It provides an excellent way for employees or business owners to present data to non-technical audiences without confusion.
+
+-----------------Concluding Business Objective for Airbnb---------------------
+
+
+![image](https://github.com/user-attachments/assets/5bb9a146-46f2-4e15-9e02-ed1eb0c029be)
+
+
+
 # Power BI Viusalizations
 ![P1](https://github.com/user-attachments/assets/1fd65816-8ed4-4385-9db1-c4fb2179841f)
 
@@ -35,3 +55,26 @@
 ![P7 2](https://github.com/user-attachments/assets/946f53bf-62fc-46f3-a29c-406d507db388)
 
 ![P8](https://github.com/user-attachments/assets/70c372cf-d84c-467c-8836-65dcc4d775bb)
+
+# About me
+
+👋 Hi, I’m Anshuman
+
+
+👀 I’m interested in Data Science, Data Analysis, Machine Learning, Deep Learning and Artificial intelligence (AI).
+
+
+🌱 I’m currently learning Data Science - Advanced Certification in Full Stack Data Science and AI (E&ICT) IIT Guwahati.
+
+
+💞️ I’m looking to collaborate on - Internships or Jobs
+
+
+🐱 Check out My work at Github-  @XAnshumanX    
+    Link https://github.com/XAnshumanX
+
+
+📫 How to reach me - Linkedin- https://www.linkedin.com/in/anshumanchawhan/
+
+
+😀 Pronouns: "he/him/his"
