@@ -2,7 +2,7 @@
 ![download](https://github.com/user-attachments/assets/9cf69101-95ff-4c85-9496-4a5db5b15b75)
 
 
-#Project Steps :
+# Project Steps :
 
 EDA project will encompass data cleaning, preprocessing, and exploratory data analysis techniques. We will employ descriptive statistics, data visualization to extract meaningful patterns and trends from the Airbnb dataset.
 
