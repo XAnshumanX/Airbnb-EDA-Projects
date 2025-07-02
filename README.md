@@ -2,7 +2,30 @@
 ![download](https://github.com/user-attachments/assets/9cf69101-95ff-4c85-9496-4a5db5b15b75)
 
 
-# Project Steps :
+
+
+# Airbnb Exploratory Data Analysis (EDA)
+Tools Used: Python (Jupyter Notebook, Pandas, Seaborn, Matplotlib)
+
+# Industry Context:
+
+The hospitality and lodging industry, particularly through platforms like Airbnb, has witnessed substantial growth due to changing traveler preferences towards unique and experience-driven accommodations. Understanding market dynamics through data analytics enables property owners and businesses to optimize listings, pricing strategies, and customer service to enhance the overall guest experience.
+
+# Recent Examples in Industry Context:
+
+Growth of Airbnb: Airbnb's market share has increased significantly, surpassing 4 million listings worldwide, connecting travelers with unique stays.
+Market Adaptation: In response to COVID-19, many hosts adapted their listings to include enhanced cleaning protocols and flexible cancellation policies, improving guest safety perceptions and boosting occupancy rates by 20% in select markets.
+Data-Driven Strategies: Businesses in the hospitality sector are leveraging data analytics to enhance customer targeting, leading to an increase in booking rates by 15%.
+Project Objective:
+
+# The objective of this project was to:
+
+Conduct Exploratory Data Analysis (EDA) on NYC Airbnb listings data to derive actionable insights related to pricing, reviews, host activities, and neighborhood dynamics.
+Clean and wrangle data to prepare it for analysis and visualize key trends in the Airbnb market.
+Provide insights that inform strategies for hosts and potential investors.
+Project Files Description
+
+## Project Steps :
 
 EDA project will encompass data cleaning, preprocessing, and exploratory data analysis techniques. We will employ descriptive statistics, data visualization to extract meaningful patterns and trends from the Airbnb dataset.
 
@@ -14,7 +37,36 @@ Data Wrangling : This step involves transforming bad data into a useful dataset 
 
 Data Visualisation : Data visualization is the graphical representation of information and data.It provides an excellent way for employees or business owners to present data to non-technical audiences without confusion.
 
------------------Concluding Business Objective for Airbnb---------------------
+
+# This project includes:
+
+## Main Jupyter Notebook:
+
+Airbnb_Data_Analysis.ipynb - Contains all functions for data preprocessing, exploratory data analysis, and visualizations.
+Dataset Overview:
+
+Airbnb Listings Data: Contains information on 48,895 listings, including 16 columns such as id, name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365, and a newly derived Price for 20 Days Stay.
+GitHub Repository:
+
+GitHub Repository - Contains the code with visualizations and findings for broader accessibility and collaboration.
+
+
+# Execution Instructions
+Airbnb_Data_Analysis.ipynb
+
+Data Loading: Execute the code to load the dataset and perform initial data checks for integrity.
+Data Cleaning: Conduct data cleaning processes including handling missing values and ensuring proper data types.
+Exploratory Data Analysis: Utilize visualizations and statistical analysis techniques to derive insights and trends from the listings.
+
+
+This EDA provides a deep understanding of the Airbnb market in New York City, highlighting key trends in neighborhood performance, room types, seasonal variations, and pricing strategies. Identifying actionable insights empowers stakeholders to make informed decisions that enhance guest experience, optimize listings, and drive growth, positioning them favorably within a competitive landscape.
+
+
+
+
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/5bb9a146-46f2-4e15-9e02-ed1eb0c029be)
