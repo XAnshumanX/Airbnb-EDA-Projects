@@ -33,10 +33,8 @@ OYO’s Guest Segmentation Strategy (2023): OYO used clustering and behavior-bas
 
 The objective of this project was to:
 
-Conduct Exploratory Data Analysis (EDA) on NYC Airbnb listings data to derive actionable insights related to pricing, reviews, host activities, and neighborhood dynamics.
-Clean and wrangle data to prepare it for analysis and visualize key trends in the Airbnb market.
-Provide insights that inform strategies for hosts and potential investors.
-Project Files Description
+To perform an in-depth exploratory data analysis (EDA) on Airbnb hotel booking data to identify trends, booking behaviors and customer segmentation to support strategic decision-making.
+
 
 ## Project Steps :
 
@@ -51,14 +49,19 @@ Data Wrangling : This step involves transforming bad data into a useful dataset 
 Data Visualisation : Data visualization is the graphical representation of information and data.It provides an excellent way for employees or business owners to present data to non-technical audiences without confusion.
 
 
-# This project includes:
+# Project Files Description
+
+This project includes:
 
 ## Main Jupyter Notebook:
 
 Airbnb_Data_Analysis.ipynb - Contains all functions for data preprocessing, exploratory data analysis, and visualizations.
 
 Dataset Overview:
+
 Airbnb Listings Data: Contains information on 48,895 listings, including 16 columns such as id, name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365.
+
+
 GitHub Repository:
 
 GitHub Repository - Contains the code with visualizations and findings for broader accessibility and collaboration.
