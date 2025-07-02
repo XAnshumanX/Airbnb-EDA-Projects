@@ -14,7 +14,9 @@ The hospitality and lodging industry, particularly through platforms like Airbnb
 # Recent Examples in Industry Context:
 
 Growth of Airbnb: Airbnb's market share has increased significantly, surpassing 4 million listings worldwide, connecting travelers with unique stays.
+
 Market Adaptation: In response to COVID-19, many hosts adapted their listings to include enhanced cleaning protocols and flexible cancellation policies, improving guest safety perceptions and boosting occupancy rates by 20% in select markets.
+
 Data-Driven Strategies: Businesses in the hospitality sector are leveraging data analytics to enhance customer targeting, leading to an increase in booking rates by 15%.
 Project Objective:
 
@@ -43,9 +45,9 @@ Data Visualisation : Data visualization is the graphical representation of infor
 ## Main Jupyter Notebook:
 
 Airbnb_Data_Analysis.ipynb - Contains all functions for data preprocessing, exploratory data analysis, and visualizations.
-Dataset Overview:
 
-Airbnb Listings Data: Contains information on 48,895 listings, including 16 columns such as id, name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365, and a newly derived Price for 20 Days Stay.
+Dataset Overview:
+Airbnb Listings Data: Contains information on 48,895 listings, including 16 columns such as id, name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365.
 GitHub Repository:
 
 GitHub Repository - Contains the code with visualizations and findings for broader accessibility and collaboration.
@@ -55,7 +57,9 @@ GitHub Repository - Contains the code with visualizations and findings for broad
 Airbnb_Data_Analysis.ipynb
 
 Data Loading: Execute the code to load the dataset and perform initial data checks for integrity.
+
 Data Cleaning: Conduct data cleaning processes including handling missing values and ensuring proper data types.
+
 Exploratory Data Analysis: Utilize visualizations and statistical analysis techniques to derive insights and trends from the listings.
 
 
