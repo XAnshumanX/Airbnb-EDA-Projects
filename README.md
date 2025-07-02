@@ -1,10 +1,9 @@
-# Airbnb-EDA-Projects
+# Airbnb Exploratory Data Analysis (EDA)
 ![download](https://github.com/user-attachments/assets/9cf69101-95ff-4c85-9496-4a5db5b15b75)
 
 
 
 
-# Airbnb Exploratory Data Analysis (EDA)
 Tools Used: Python (Jupyter Notebook, Pandas, Seaborn, Matplotlib)
 
 # Industry Context:
@@ -18,9 +17,21 @@ Growth of Airbnb: Airbnb's market share has increased significantly, surpassing 
 Market Adaptation: In response to COVID-19, many hosts adapted their listings to include enhanced cleaning protocols and flexible cancellation policies, improving guest safety perceptions and boosting occupancy rates by 20% in select markets.
 
 Data-Driven Strategies: Businesses in the hospitality sector are leveraging data analytics to enhance customer targeting, leading to an increase in booking rates by 15%.
-Project Objective:
 
-# The objective of this project was to:
+Shift to Flexible Stays: The COVID-19 pandemic accelerated the acceptance of flexible stays and remote work, leading to increased demand for extended Airbnb accommodations.
+
+Market Adaptation: Hosts are diversifying their offerings, catering to shifting consumer preferences for unique and localized experiences over traditional hotel stays.
+
+Airbnb’s Dynamic Pricing Engine (2022): Airbnb integrated data-driven pricing models to adjust nightly rates based on demand, location, and time, increasing host revenue by 15% on average.
+
+Booking.com Cancellation Reduction (2023): Implemented behavioral analytics to predict high-risk cancellations, reducing cancellation rates by 12%.
+
+OYO’s Guest Segmentation Strategy (2023): OYO used clustering and behavior-based segmentation to tailor offerings, boosting repeat bookings by 18%.
+
+
+# Project Objective:
+
+The objective of this project was to:
 
 Conduct Exploratory Data Analysis (EDA) on NYC Airbnb listings data to derive actionable insights related to pricing, reviews, host activities, and neighborhood dynamics.
 Clean and wrangle data to prepare it for analysis and visualize key trends in the Airbnb market.
