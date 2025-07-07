@@ -107,6 +107,8 @@ This EDA provides a deep understanding of the Airbnb market in New York City, hi
 ![P7](https://github.com/user-attachments/assets/beef8c46-409b-4167-8336-ae51338ea8b4)
 
 # Tableau Viusalizations
+https://public.tableau.com/views/M4AnS2/Airbnb?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 ![P1](https://github.com/user-attachments/assets/839db935-16db-4c82-9001-a6d07a501409)
 
